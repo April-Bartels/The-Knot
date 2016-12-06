@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!ELEMENT  Knot (#PCDATA)>
+
+<!ELEMENT Community (#PCDATA)>
+
+<!ELEMENT Fun (#PCDATA)>
+
+<!ELEMENT Fellowship (verse)>
+
+<!ELEMENT verse (#PCDATA)>
+
+<!ELEMENT Contact (address, phone, email, when)>
+
+<!ELEMENT address (#PCDATA)>
+
+<!ELEMENT phone (#PCDATA)>
+
+<!ELEMENT email (#PCDATA)> 
+
+<!ELEMENT when (#PCDATA)>
+
+
+
+ 

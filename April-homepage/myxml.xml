@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="new.css"?>
+<!DOCTYPE myxml SYSTEM "Knot.dtd">
+
+<Knot>  
+<Community>
+  The Knot is great place to praise God while meeting other Middle Schoolers and High Schoolers!
+</Community>
+
+<Fun>
+  Each week there is a fun ice breaker activity to help you get to know people, and to kick the night off! The Knot also has occasional events.
+</Fun>
+
+<Fellowship>
+  <verse>
+    "For where two or three are gathered together in my name, there am I with them." -Matthew 18:20
+  </verse>
+  After the fun icebreaker activity, the praise band leads the group in some worship songs. Next, a speaker comes up to teach the group about the gospel. Then, everyone is broken up into small groups to discuss the topics the speaker mentioned. Finally, people hang out and some snack are served!
+</Fellowship>
+
+<Contact>
+  <address>
+    789 Northdale Blvd Coon Rapids, MN 55448
+  </address>
+  <phone>
+    763-755-2667
+  </phone>
+  <email>
+    pcomoffice@pcommn.org
+  </email>
+  <when>
+    Every Wednesday night at 7pm!
+  </when>
+</Contact>
+
+</Knot>

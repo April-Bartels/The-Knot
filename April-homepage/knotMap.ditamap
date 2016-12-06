@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>The Knot</title>
+ <topicref href="about.dita"/>
+ <topichead navtitle="Community">
+  <topicref href="fellowship.dita"/>
+ </topichead>
+ <topichead navtitle="Fun">
+  <topicref href="events.dita"/>
+ </topichead>
+ <topicref href="contact.dita"/>
+</map>

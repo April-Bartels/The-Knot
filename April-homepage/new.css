@@ -1,0 +1,41 @@
+Community {
+    background-color: #efefef;
+  width: 31.3%;
+  float: left;
+  margin: 1%;
+}
+
+Fun {
+    background-color: #efefef;
+  width: 31.3%;
+  float: left;
+  margin: 1%;
+}
+
+
+
+
+Contact {
+  width: 960px;
+  margin: 0 auto;
+  font-family: "Helvetica", sans-serif;
+  color: blue;
+}
+
+ Name {
+  font-weight: bold;
+  font-size: 140%;
+  display:block;
+  margin-bottom: 3%;
+  color: blue;
+}
+phone {
+  font-size: 90%;
+  display: block;
+}
+email {
+  font-size: 90%;
+  font-weight: bold;
+  display: block;
+  margin-top: 3%;
+}
